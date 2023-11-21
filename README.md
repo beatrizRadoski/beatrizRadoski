@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Beatriz e eu sou desenvolvedora Front-End, com o objetivo de me tornar Full-Stack.
+
 
 ##
 
